@@ -12,7 +12,7 @@ A modern application built with **TypeScript**, with **Python** used for support
 
 Replace this paragraph with a short description of your project: what it does, who it is for, and the problem it solves.
 
-## ✨ Features
+#### ✨ Features
 
 - Type-safe application code written in TypeScript
 - Python module for data processing, automation or AI/ML tasks (describe what yours does)
@@ -20,7 +20,7 @@ Replace this paragraph with a short description of your project: what it does, w
 - Simple setup for both the TypeScript and Python parts
 - Ready for deployment
 
-##  Tech Stack
+#### Tech Stack
 
 - **TypeScript** – main application
 - **Node.js & npm** – runtime and package management
