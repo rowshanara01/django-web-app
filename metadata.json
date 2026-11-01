@@ -1,0 +1,6 @@
+{
+  "name": "NexStore E-Commerce",
+  "description": "Full-featured eCommerce web application with one-time superuser admin setup, role-based auth, product/category/brand CRUD, user dashboard, cart & checkout, and Django backend code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
