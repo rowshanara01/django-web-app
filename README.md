@@ -6,9 +6,9 @@ A modern application built with **TypeScript**, with **Python** used for support
 ![TypeScript](https://img.shields.io/badge/TypeScript-94.9%25-3178c6)
 ![Python](https://img.shields.io/badge/Python-4.6%25-3776ab)
 
-🔗 **Live Demo:** [your-project-link.com](https://your-project-link.com)
 
-## 📌 About
+
+##  About
 
 Replace this paragraph with a short description of your project: what it does, who it is for, and the problem it solves.
 
