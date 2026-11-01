@@ -27,7 +27,7 @@ Replace this paragraph with a short description of your project: what it does, w
 - **Python** (3.10 or higher recommended) – supporting service or scripts
 - Add your frameworks and libraries here (for example Next.js, React, Express, FastAPI, Flask)
 
-## 📁 Project Structure
+#### 📁 Project Structure
 
 ```
 project-name/
