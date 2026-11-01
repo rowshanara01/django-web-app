@@ -20,7 +20,7 @@ Replace this paragraph with a short description of your project: what it does, w
 - Simple setup for both the TypeScript and Python parts
 - Ready for deployment
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **TypeScript** – main application
 - **Node.js & npm** – runtime and package management
