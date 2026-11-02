@@ -24,7 +24,7 @@ Replace this paragraph with a short description of your store: what it sells, wh
 
 > Edit this list so it matches the features your store really has.
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  ##
 
 **Front-end**
 - **TypeScript** – type-safe application code
