@@ -116,7 +116,7 @@ Then open the address shown in the terminal (usually `http://localhost:3000` or 
 npm run build
 ```
 
-## 🔐 Environment Variables
+#### 🔐 Environment Variables ####
 
 Copy `.env.example` to `.env` and set your own values. Typical variables include:
 
