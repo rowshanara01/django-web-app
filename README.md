@@ -9,7 +9,7 @@ A full-stack e-commerce web application with a **Django (Python)** back-end and 
 
 
 
-## 📌 About
+## 📌 About ##
 
 Replace this paragraph with a short description of your store: what it sells, who it is for, and what makes it different.
 
