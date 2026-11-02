@@ -55,7 +55,7 @@ django-web-app/
 
 > Update the comments above so each folder's description is accurate.
 
-## 🚀 Getting Started ####
+#### 🚀 Getting Started ####
 
 ###3 Prerequisites
 
