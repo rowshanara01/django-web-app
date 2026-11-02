@@ -13,7 +13,7 @@ A full-stack e-commerce web application with a **Django (Python)** back-end and 
 
 Replace this paragraph with a short description of your store: what it sells, who it is for, and what makes it different.
 
-## ✨ Features
+## ✨ Features ##
 
 - Product catalog with listing and detail pages
 - Shopping cart and checkout flow
