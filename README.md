@@ -1,5 +1,140 @@
 
-# Project Name
+#Metric	ভালো Target
+TTFB	200–500ms
+FCP	1.0–1.8s
+LCP	1.0–2.5s
+INP	200ms-এর নিচে
+CLS	0.1-এর নিচেMetric	ভালো Target
+TTFB	200–500ms
+FCP	1.0–1.8s
+LCP	1.0–2.5s
+INP	200ms-এর নিচে
+CLS	0.1-এর নিচেMetric	ভালো Target
+TTFB	200–500ms
+FCP	1.0–1.8s
+LCP	1.0–2.5s
+INP	200ms-এর নিচে
+CLS	0.1-এর নিচেMetric	ভালো Target
+TTFB	200–500ms
+FCP	1.0–1.8s
+LCP	1.0–2.5s
+INP	200ms-এর নিচে
+CLS	0.1-এর নিচেMetric	ভালো Target
+TTFB	200–500ms
+FCP	1.0–1.8s
+LCP	1.0–2.5s
+INP	200ms-এর নিচে
+CLS	0.1-এর নিচেMetric	ভালো Target
+TTFB	200–500ms
+FCP	1.0–1.8s
+LCP	1.0–2.5s
+INP	200ms-এর নিচে
+CLS	0.1-এর নিচেMetric	ভালো Target
+TTFB	200–500ms
+FCP	1.0–1.8s
+LCP	1.0–2.5s
+INP	200ms-এর নিচে
+CLS	0.1-এর নিচেMetric	ভালো Target
+TTFB	200–500ms
+FCP	1.0–1.8s
+LCP	1.0–2.5s
+INP	200ms-এর নিচে
+CLS	0.1-এর নিচেMetric	ভালো Target
+TTFB	200–500ms
+FCP	1.0–1.8s
+LCP	1.0–2.5s
+INP	200ms-এর নিচে
+CLS	0.1-এর নিচেMetric	ভালো Target
+TTFB	200–500ms
+FCP	1.0–1.8s
+LCP	1.0–2.5s
+INP	200ms-এর নিচে
+CLS	0.1-এর নিচেMetric	ভালো Target
+TTFB	200–500ms
+FCP	1.0–1.8s
+LCP	1.0–2.5s
+INP	200ms-এর নিচে
+CLS	0.1-এর নিচেMetric	ভালো Target
+TTFB	200–500ms
+FCP	1.0–1.8s
+LCP	1.0–2.5s
+INP	200ms-এর নিচে
+CLS	0.1-এর নিচেMetric	ভালো Target
+TTFB	200–500ms
+FCP	1.0–1.8s
+LCP	1.0–2.5s
+INP	200ms-এর নিচে
+CLS	0.1-এর নিচেMetric	ভালো Target
+TTFB	200–500ms
+FCP	1.0–1.8s
+LCP	1.0–2.5s
+INP	200ms-এর নিচে
+CLS	0.1-এর নিচেMetric	ভালো Target
+TTFB	200–500ms
+FCP	1.0–1.8s
+LCP	1.0–2.5s
+INP	200ms-এর নিচে
+CLS	0.1-এর নিচেMetric	ভালো Target
+TTFB	200–500ms
+FCP	1.0–1.8s
+LCP	1.0–2.5s
+INP	200ms-এর নিচে
+CLS	0.1-এর নিচেMetric	ভালো Target
+TTFB	200–500ms
+FCP	1.0–1.8s
+LCP	1.0–2.5s
+INP	200ms-এর নিচে
+CLS	0.1-এর নিচেMetric	ভালো Target
+TTFB	200–500ms
+FCP	1.0–1.8s
+LCP	1.0–2.5s
+INP	200ms-এর নিচে
+CLS	0.1-এর নিচেMetric	ভালো Target
+TTFB	200–500ms
+FCP	1.0–1.8s
+LCP	1.0–2.5s
+INP	200ms-এর নিচে
+CLS	0.1-এর নিচে#Metric	ভালো Target
+TTFB	200–500ms
+FCP	1.0–1.8s
+LCP	1.0–2.5s
+INP	200ms-এর নিচে
+CLS	0.1-এর নিচেMetric	ভালো Target
+TTFB	200–500ms
+FCP	1.0–1.8s
+LCP	1.0–2.5s
+INP	200ms-এর নিচে
+CLS	0.1-এর নিচেMetric	ভালো Target
+TTFB	200–500ms
+FCP	1.0–1.8s
+LCP	1.0–2.5s
+INP	200ms-এর নিচে
+CLS	0.1-এর নিচেMetric	ভালো Target
+TTFB	200–500ms
+FCP	1.0–1.8s
+LCP	1.0–2.5s
+INP	200ms-এর নিচে
+CLS	0.1-এর নিচেMetric	ভালো Target
+TTFB	200–500ms
+FCP	1.0–1.8s
+LCP	1.0–2.5s
+INP	200ms-এর নিচে
+CLS	0.1-এর নিচেMetric	ভালো Target
+TTFB	200–500ms
+FCP	1.0–1.8s
+LCP	1.0–2.5s
+INP	200ms-এর নিচে
+CLS	0.1-এর নিচেMetric	ভালো Target
+TTFB	200–500ms
+FCP	1.0–1.8s
+LCP	1.0–2.5s
+INP	200ms-এর নিচে
+CLS	0.1-এর নিচেMetric	ভালো Target
+TTFB	200–500ms
+FCP	1.0–1.8s
+LCP	1.0–2.5s
+INP	200ms-এর নিচে
+CLS	0.1-এর নিচে Project Name
 
 A modern application built with **TypeScript**, with **Python** used for supporting services and scripts.
 
