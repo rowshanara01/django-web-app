@@ -7,7 +7,7 @@ A full-stack e-commerce web application with a **Django (Python)** back-end and 
 ![Python](https://img.shields.io/badge/Python-4.6%25-3776ab)
 ![Django](https://img.shields.io/badge/Django-092e20?logo=django&logoColor=white)
 
-🔗 **Live Demo:** [your-project-link.com](https://your-project-link.com)
+
 
 ## 📌 About
 
