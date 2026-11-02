@@ -129,8 +129,7 @@ API_URL=http://127.0.0.1:8000
 
 > Never commit your `.env` file to GitHub. It is already listed in `.gitignore`.
 
-## 🌐 Deployment
-
+## 🌐 Deployment ..
 - **Front-end:** deploy on **Vercel** or **Netlify** by importing the GitHub repository and setting the root directory to the front-end folder.
 - **Back-end:** deploy Django on **Render**, **Railway** or a VPS. Set `DEBUG=False`, add your production environment variables, and run `python manage.py migrate`.
 
@@ -160,7 +159,6 @@ A full-stack e-commerce web application with a **Django (Python)** back-end and 
 ![Python](https://img.shields.io/badge/Python-4.6%25-3776ab)
 ![Django](https://img.shields.io/badge/Django-092e20?logo=django&logoColor=white)
 
-🔗 **Live Demo:** [your-project-link.com](https://your-project-link.com)
 
 ## 📌 About
 
