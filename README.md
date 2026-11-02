@@ -70,7 +70,7 @@ git clone https://github.com/rowshanara01/django-web-app.git
 cd django-web-app
 ```
 
-### 2. Set up environment variables .
+#### 2. Set up environment variables .####
 
 ```bash
 cp .env.example .env
