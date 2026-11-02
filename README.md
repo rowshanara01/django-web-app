@@ -55,9 +55,9 @@ django-web-app/
 
 > Update the comments above so each folder's description is accurate.
 
-## 🚀 Getting Started
+## 🚀 Getting Started ####
 
-### Prerequisites
+###3 Prerequisites
 
 - [Node.js](https://nodejs.org/) (v18 or higher) and npm
 - [Python 3.10+](https://www.python.org/downloads/) and pip
