@@ -1,5 +1,5 @@
 
-### Django Web App
+#### Django Web App ####
 
 A full-stack e-commerce web application with a **Django (Python)** back-end and a **TypeScript** front-end.
 
