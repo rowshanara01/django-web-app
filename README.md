@@ -35,7 +35,7 @@ Replace this paragraph with a short description of your store: what it sells, wh
 - **Python** and **Django** – server, database models and API
 - **SQLite / PostgreSQL / MySQL** – database (update to match your settings)
 
-## 📁 Project Structure
+## 📁 Project Structure ##
 
 ```
 django-web-app/
