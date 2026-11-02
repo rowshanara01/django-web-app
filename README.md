@@ -78,7 +78,7 @@ cp .env.example .env
 
 On Windows Command Prompt, use `copy .env.example .env`, then fill in your own values in `.env`.
 
-### 3. Run the back-end (Django)
+#### 3. Run the back-end (Django) ####
 
 ```bash
 cd backend
