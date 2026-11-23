@@ -57,7 +57,7 @@ django-web-app/
 
 ####  Getting Started ####
 
-###3 Prerequisites
+#### Prerequisites ####
 
 - [Node.js](https://nodejs.org/) (v18 or higher) and npm
 - [Python 3.10+](https://www.python.org/downloads/) and pip
