@@ -84,7 +84,7 @@ On Windows Command Prompt, use `copy .env.example .env`, then fill in your own v
 cd backend
 python -m venv venv
 
-##### Windows
+##### Windows ####
 venv\Scripts\activate
 
 #### macOS / Linux
