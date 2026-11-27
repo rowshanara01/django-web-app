@@ -98,7 +98,7 @@ python manage.py runserver
 
 The API will run at `http://127.0.0.1:8000`, and the admin panel at `http://127.0.0.1:8000/admin`.
 
-### 4. Run the front-end
+####4. Run the front-end
 
 Open a second terminal:
 
