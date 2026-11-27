@@ -147,7 +147,7 @@ Contributions, issues and feature requests are welcome.
 
 This project is licensed under the MIT License.
 
-## 👩‍💻 Author
+###3 👩‍💻 Author
 
 **Rowshanara Akhter**
 
